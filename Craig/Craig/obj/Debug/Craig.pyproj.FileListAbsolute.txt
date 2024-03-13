@@ -1,0 +1,12 @@
+C:\Users\grossman.m\Documents\SharpDevelop Projects\Craig\Craig\bin\Debug\Craig.exe.config
+C:\Users\grossman.m\Documents\SharpDevelop Projects\Craig\Craig\bin\Debug\Craig.exe
+C:\Users\grossman.m\Documents\SharpDevelop Projects\Craig\Craig\bin\Debug\Craig.dll
+C:\Users\grossman.m\Documents\SharpDevelop Projects\Craig\Craig\bin\Debug\IronPython.dll
+C:\Users\grossman.m\Documents\SharpDevelop Projects\Craig\Craig\bin\Debug\IronPython.Modules.dll
+C:\Users\grossman.m\Documents\SharpDevelop Projects\Craig\Craig\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\grossman.m\Documents\SharpDevelop Projects\Craig\Craig\bin\Debug\Microsoft.Scripting.dll
+C:\Users\grossman.m\Documents\SharpDevelop Projects\Craig\Craig\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\grossman.m\Documents\SharpDevelop Projects\Craig\Craig\obj\Debug\Craig.pyprojResolveAssemblyReference.cache
+C:\Users\grossman.m\Documents\SharpDevelop Projects\Craig\Craig\obj\Debug\Craig.MainForm.resources
+C:\Users\grossman.m\Documents\SharpDevelop Projects\Craig\Craig\obj\Debug\Craig.pyproj.GenerateResource.Cache
+C:\Users\grossman.m\Documents\SharpDevelop Projects\Craig\Craig\obj\Debug\Craig.exe
